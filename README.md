@@ -6,4 +6,4 @@ Hello there! My name is Idaly and I would like to share some of the cool beginne
 [Strings Notebook](./PY0101EN-1-2-Strings.ipynb)   
 ## Data Analytics Projects
 ---
-[US Imports Analysis](<./US Exports and Imports.ipynb>)
+[US Imports Analysis](<./US Export and Imports.ipynb>)
